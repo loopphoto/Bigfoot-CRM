@@ -10,6 +10,8 @@ All notable changes to this project will be documented in this file.
 - Proposals - add Pre printed waybills requirement
 - Proposals - Proposal approval to a single line manager
 - Proposals - Tarsha to have permission to change stage - *testing*
+- Emails - to be counted calls
+- Emails - Signature on emails from Zoho app. *this is already working, just have to rollout to all users*
 
 
 
