@@ -18,16 +18,18 @@ All notable changes to this project will be documented in this file.
 
 ## 2022-10-11
 ### Added
-- Cases - "Branch Resposible" dropdown
-- Cases - "Capturing Error" added to Case Reason dropdown
-- Cases - "Local vehicle delivery/collection damage" added to Case Reason dropdown
-- Cases - "Late Collection" added to Case Type dropdown
+- Cases - "**Branch Resposible**" dropdown
+- Cases - "**Capturing Error**" added to Case Reason dropdown
+- Cases - "**Local vehicle delivery/collection damage**" added to Case Reason dropdown
+- Cases - "**Late Collection**" added to Case Type dropdown
 
 
 ### Changed
-- Cases - "Case Reason", "Solution", and "Branch Responsible" are now only only editable by Customer care and Debtors. All other users can add suggested solutions as notes.
-- Cases - Case Reason list now sorted alphabetically
-- Cases - Case Type list now sorted alphabetically
+- Cases - "**Case Reason**", "**Solution**", and "**Branch Responsible**" are now only only editable by Customer care and Debtors. 
+
+    *All other users can add suggested solutions as notes.*
+- Cases - **Case Reason** list now sorted alphabetically
+- Cases - **Case Type** list now sorted alphabetically
 
 
 ### Removed
