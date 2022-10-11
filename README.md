@@ -31,7 +31,7 @@ All notable changes to this project will be documented in this file.
         
         **EXCEPTIONS**
         1. All cases will be automatically reassigned to Chris 48 hours after creation
-        2. All cases that have not been closed in 72 hours will send Denesh an emial notification
+        2. All cases that have not been closed in 72 hours will send Denesh an email notification
 
 
 - Cases - "**Branch Responsible**" dropdown
