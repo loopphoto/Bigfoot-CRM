@@ -12,13 +12,14 @@ All notable changes to this project will be documented in this file.
 - Proposals - Tarsha to have permission to change stage - *testing*
 - Emails - to be counted calls
 - Emails - Signature on emails from Zoho app. *this is already working, just have to rollout to all users*
+- Proposals - Denesh/Sun to approve rates from BN3
 
 
 
 <br>
 
 
-## 2022-10-12
+## 2022-10-11
 ### Added
 - Cases - Case Escalation workflow:  
 
