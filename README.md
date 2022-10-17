@@ -10,13 +10,43 @@ All notable changes to this project will be documented in this file.
 - Proposals - add Pre printed waybills requirement
 - Proposals - Proposal approval to a single line manager
 - Proposals - Tarsha to have permission to change stage - *testing*
-- Emails - to be counted calls
+- Emails - to be counted towards calls/activity
 - Emails - Signature on emails from Zoho app. *this is already working, just have to rollout to all users*
+- Proposa
+- Cases - Links to cases on all email notifications internally
+- LRMG Gamification Tasks - this will add a lot of changes
+
+<br>
+##Known Issues
+
+- Cases - email notifications don't have links to the cases. *Testing a solution, but only works on mobile email, not desktop*
+- Proposals - Nobody can see Tarsha's tasks except for admin users
+- Proposals - Proposal Approvals go to all manager, not just the manager responsible for approval.
+- Cases - Email updates need to be more informative
+
+<br>
+
+
+## 2022-10-12
+### Added
+
+
+<br>
+
+### Changed
 - Proposals - Denesh/Sun to approve rates from BN3
 
 
 
 <br>
+
+### Removed
+
+
+<br>
+
+
+
 
 
 ## 2022-10-11
@@ -60,3 +90,4 @@ All notable changes to this project will be documented in this file.
 ### Removed
 - Nothing removed in this release
 
+<br>
