@@ -3,6 +3,7 @@
 ## Changelog
 All notable changes to this project will be documented in this file.  
 <br>
+
 ## Unreleased
 
 - Cases - Survey on case closed
@@ -12,22 +13,59 @@ All notable changes to this project will be documented in this file.
 - Proposals - Tarsha to have permission to change stage - *testing*
 - Emails - to be counted towards calls/activity
 - Emails - Signature on emails from Zoho app. *this is already working, just have to rollout to all users*
-- Proposa
+
 - Cases - Links to cases on all email notifications internally
 - LRMG Gamification Tasks - this will add a lot of changes
 
+
+
+
+
+
 <br>
-##Known Issues
+
+## Known Issues
 
 - Cases - email notifications don't have links to the cases. *Testing a solution, but only works on mobile email, not desktop*
 - Proposals - Nobody can see Tarsha's tasks except for admin users
-- Proposals - Proposal Approvals go to all manager, not just the manager responsible for approval.
-- Cases - Email updates need to be more informative
-
+- Proposals - Proposal Approvals go to all managers, not just the manager responsible for approval.
+- Case number and case id are different. change to case number on email
+- Task CGIC status wont be visible to proposal owner
+- Cases - Cases reassign back to Chris After 48 hours, but he can take them back sooner if he knew there was an update - propose an email to chris on updates.
+<br>
+<br>
 <br>
 
 
-## 2022-10-12
+
+
+
+
+# 2022-10-19
+<br>
+
+### Added
+- Accounts - Account Type added on all accounts
+    - Account type defaults to New Business.
+    - Account No. and Rate Anniversary is mandatory on selecting Existing Business
+
+<br>
+
+### Changed
+- Cases - Email updates are more informative#
+
+
+
+
+<br>
+
+### Removed
+
+
+<br>
+<br>
+
+# 2022-10-12
 ### Added
 
 
@@ -49,7 +87,7 @@ All notable changes to this project will be documented in this file.
 
 
 
-## 2022-10-11
+# 2022-10-11
 ### Added
 - Cases - Case Escalation workflow:  
 
