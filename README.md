@@ -13,9 +13,8 @@ All notable changes to this project will be documented in this file.
 - Proposals - Tarsha to have permission to change stage - *testing*
 - Emails - to be counted towards calls/activity
 - Emails - Signature on emails from Zoho app. *this is already working, just have to rollout to all users*
-
 - Cases - Links to cases on all email notifications internally
-- LRMG Gamification Tasks - this will add a lot of changes
+- LRMG Gamification Tasks - this will add some changes mostly to leads and accountschanges
 
 
 
@@ -38,6 +37,33 @@ All notable changes to this project will be documented in this file.
 
 
 
+
+
+
+
+
+# 2022-10-21
+<br>
+
+### Added
+- Cases - Added case reason to layout
+
+<br>
+
+### Changed
+- Proposals - Emails for rejection/approvals now have labels for values.
+- Users - All users permissions and roles fixed
+
+
+
+
+<br>
+
+### Removed
+
+
+<br>
+<br>
 
 
 
