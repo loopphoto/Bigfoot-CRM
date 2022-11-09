@@ -42,6 +42,47 @@ All notable changes to this project will be documented in this file.
 
 
 
+
+# 2022-11-07
+<br>
+
+### Added
+- Reports - Proposals approved today
+- Reports - Proposals tha are waiting for management approval
+
+<br>
+
+### Changed
+
+
+<br>
+
+### Removed
+- Cases - Will stop being reassigned to Chris after 48 hours
+
+<br>
+<br>
+
+
+# 2022-10-25
+<br>
+
+### Added
+- Cases - Case Dashboard
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
 # 2022-10-21
 <br>
 
@@ -56,10 +97,6 @@ All notable changes to this project will be documented in this file.
 
 
 
-
-<br>
-
-### Removed
 
 
 <br>
