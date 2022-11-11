@@ -53,7 +53,7 @@ All notable changes to this project will be documented in this file.
 - Proposals - In-house scanning checkbox
 - Proposals - Pre-Printed waybill checkbox
 - Proposals - Added Collection days and times
-- Proposals - Added Delivery Days and times
+
 
 
 <br>
@@ -62,7 +62,10 @@ All notable changes to this project will be documented in this file.
 - Proposals - Added "Current Provider" to replace "Current Transporter".  The new "Current Provider" field allows selecting more than one provider.
 - Proposals - Changed "Services Utilized" to "Services Currently Utilised". 
 
+<br>
 
+### Fixed
+- Proposals - Tarsha can now change proposal stage. She will change the stage to closed WON and add an account number to the account. Her CGIC notes will also be on the proposal, not her task, so it's visible to the proposal owner.
 
 
 <br>
