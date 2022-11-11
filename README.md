@@ -7,8 +7,6 @@ All notable changes to this project will be documented in this file.
 ## Unreleased
 
 - Cases - Survey on case closed
-- Proposals - add IT requirements eg. inhouse
-- Proposals - add Pre printed waybills requirement
 - Proposals - Proposal approval to a single line manager
 - Proposals - Tarsha to have permission to change stage - *testing*
 - Emails - to be counted towards calls/activity
@@ -31,6 +29,7 @@ All notable changes to this project will be documented in this file.
 - Case number and case id are different. change to case number on email
 - Task CGIC status wont be visible to proposal owner
 - Cases - Cases reassign back to Chris After 48 hours, but he can take them back sooner if he knew there was an update - propose an email to chris on updates.
+- Proposals Collection and delivery times input a date as well.
 <br>
 <br>
 <br>
@@ -40,6 +39,39 @@ All notable changes to this project will be documented in this file.
 
 
 
+
+
+
+
+
+
+# 2022-11-11
+<br>
+
+### Added
+- Cases - Print preview button to print cases.
+- Proposals - In-house scanning checkbox
+- Proposals - Pre-Printed waybill checkbox
+- Proposals - Added Collection days and times
+- Proposals - Added Delivery Days and times
+
+
+<br>
+
+### Changed
+- Proposals - Added "Current Provider" to replace "Current Transporter".  The new "Current Provider" field allows selecting more than one provider.
+- Proposals - Changed "Services Utilized" to "Services Currently Utilised". 
+
+
+
+
+<br>
+
+### Removed
+- Proposals - Removed unused fields in proposals
+
+<br>
+<br>
 
 
 
@@ -48,11 +80,8 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - Reports - Proposals approved today
-- Reports - Proposals tha are waiting for management approval
+- Reports - Proposals that are waiting for management approval
 
-<br>
-
-### Changed
 
 
 <br>
@@ -120,9 +149,7 @@ All notable changes to this project will be documented in this file.
 
 
 
-<br>
 
-### Removed
 
 
 <br>
@@ -141,7 +168,6 @@ All notable changes to this project will be documented in this file.
 
 <br>
 
-### Removed
 
 
 <br>
@@ -188,7 +214,6 @@ All notable changes to this project will be documented in this file.
 
 <br>
 
-### Removed
-- Nothing removed in this release
+
 
 <br>
