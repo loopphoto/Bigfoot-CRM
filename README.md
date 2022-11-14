@@ -36,7 +36,32 @@ All notable changes to this project will be documented in this file.
 
 
 
+# 2022-11-14
+<br>
 
+### Added
+
+
+
+
+<br>
+
+### Changed
+- Proposals - Change Collection days and times to non-mandatory fields
+
+<br>
+
+### Fixed
+
+
+
+<br>
+
+### Removed
+
+
+<br>
+<br>
 
 
 

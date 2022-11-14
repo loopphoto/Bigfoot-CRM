@@ -1,0 +1,22 @@
+https://crm.zoho.com/crm/org59023441/tab/Cases/custom-view/1626886000000075633/list
+
+https://crm.zoho.com/crm/org59023441/tab/Cases/1626886000004496043
+
+
+https://crm.zoho.com/crm/org59023441/approvalProcess.do?action=detailedView&entityId=1626886000004595127&recModule=Potentials
+
+https://crm.zoho.com/crm/EntityInfo.do?module=Cases&id
+
+https://crm.zoho.com/crm/org59023441/EntityInfo.do?action=detailedView&entityId=1626886000004301016&recmodule=Cases&id
+
+
+
+#working only on mobile
+https://crm.zoho.com/crm/org59023441/approvalProcess.do?action=detailedView&entityId=1626886000004301016&recModule=Cases
+
+https://crm.zoho.com/crm/org59023441/approvalProcess.do?action=detailedView&entityId=${Cases.Case Id}&recModule=Cases
+
+
+
+
+https://crm.zoho.com/crm/org59023441/approvalProcess.do?action=detailedView&entityId=1626886000004301016&recModule=Cases
