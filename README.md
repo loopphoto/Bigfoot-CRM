@@ -13,7 +13,7 @@ All notable changes to this project will be documented in this file.
 - Emails - Signature on emails from Zoho app. *this is already working, just have to rollout to all users*
 - Cases - Links to cases on all email notifications internally
 - LRMG Gamification Tasks - this will add some changes mostly to leads and accountschanges
-
+- when a case is closed is it possible for the responsible bm to also receive the corrective action communicated to the client. This will help them to execute the plan of action.
 
 
 
@@ -33,8 +33,7 @@ All notable changes to this project will be documented in this file.
 <br>
 <br>
 <br>
-
-
+<br>
 
 # 2022-11-14
 <br>
@@ -47,17 +46,37 @@ All notable changes to this project will be documented in this file.
 <br>
 
 ### Changed
-- Proposals - Change Collection days and times to non-mandatory fields
+
 
 <br>
 
 ### Fixed
-
+- Started reassigning accounts
 
 
 <br>
 
 ### Removed
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+# 2022-11-14
+<br>
+
+
+
+### Changed
+- Proposals - Change Collection days and times to non-mandatory fields
+
+
 
 
 <br>
