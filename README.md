@@ -32,6 +32,43 @@ All notable changes to this project will be documented in this file.
 <br>
 
 
+<!-- ------------------------------------------------------------------------------------------------------ -->
+# 2023-01-18
+<br>
+
+### Added
+- Proposals - Current Providers list updated:
+    -   "KARGO" changed to Kargo National
+    -   "Afritruck" changed to "Afritrek
+    -   Added "Courier IT"
+    -   Added "Laser Logistics"
+    -   Added "Cargo Works"
+    -   Added "Seaborne Express"
+    -   Added "Aramex"
+    -   Added "Imperial"
+    -   Added "The Courier Guy"
+    -   Added "Promech"
+    -   Added "Barloworld"
+    -   Added "Rhenus"
+    -   Added "Onelogix"
+<br>
+
+### Changed
+
+
+<br>
+
+### Fixed
+
+
+<br>
+
+### Removed
+
+<br>
+<br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 # 2022-11-25
