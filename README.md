@@ -15,10 +15,6 @@ All notable changes to this project will be documented in this file.
 - LRMG Gamification Tasks - this will add some changes mostly to leads and accountschanges
 - when a case is closed is it possible for the responsible bm to also receive the corrective action communicated to the client. This will help them to execute the plan of action.
 
-
-
-
-
 <br>
 
 ## Known Issues
@@ -35,14 +31,14 @@ All notable changes to this project will be documented in this file.
 <br>
 <br>
 
-# 2022-11-14
+
+
+<!-- ------------------------------------------------------------------------------------------------------ -->
+# 2022-11-25
 <br>
 
 ### Added
-
-
-
-
+- Proposals - Closing date changes to Won date automatically.(this has been effective for ±1 month, but i'm documenting the change now.)
 <br>
 
 ### Changed
@@ -51,36 +47,41 @@ All notable changes to this project will be documented in this file.
 <br>
 
 ### Fixed
-- Started reassigning accounts
 
 
 <br>
 
 ### Removed
 
-
 <br>
 <br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
 
-
-
-
-
-
-
+<!-- ------------------------------------------------------------------------------------------------------ -->
 # 2022-11-14
 <br>
 
+### Added
 
+<br>
 
 ### Changed
 - Proposals - Change Collection days and times to non-mandatory fields
 
+<br>
 
+### Fixed
+- Started reassigning accounts
 
+<br>
+
+### Removed
 
 <br>
 <br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
+
 
 
 
