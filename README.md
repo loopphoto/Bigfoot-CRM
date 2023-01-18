@@ -40,6 +40,8 @@ All notable changes to this project will be documented in this file.
 - Proposals - Current Providers list updated:
     -   "KARGO" changed to Kargo National
     -   "Afritruck" changed to "Afritrek
+    -   Removed "Time Freight"
+    -   Removed "Dawn Wing"
     -   Added "Courier IT"
     -   Added "Laser Logistics"
     -   Added "Cargo Works"
