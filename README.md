@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file.
 
 - Cases - Survey on case closed
 - Proposals - Proposal approval to a single line manager
-- Proposals - Tarsha to have permission to change stage - *testing*
+- ~~Proposals - Tarsha to have permission to change stage - *testing*~~
 - Emails - to be counted towards calls/activity
 - Emails - Signature on emails from Zoho app. *this is already working, just have to rollout to all users*
 - Cases - Links to cases on all email notifications internally
@@ -20,12 +20,13 @@ All notable changes to this project will be documented in this file.
 ## Known Issues
 
 - Cases - email notifications don't have links to the cases. *Testing a solution, but only works on mobile email, not desktop*
-- Proposals - Nobody can see Tarsha's tasks except for admin users
+- ~~Proposals - Nobody can see Tarsha's tasks except for admin users~~ She now adds notes on the proposal or account
 - Proposals - Proposal Approvals go to all managers, not just the manager responsible for approval.
 - Case number and case id are different. change to case number on email
 - Task CGIC status wont be visible to proposal owner
-- Cases - Cases reassign back to Chris After 48 hours, but he can take them back sooner if he knew there was an update - propose an email to chris on updates.
+- ~~Cases - Cases reassign back to Chris After 48 hours, but he can take them back sooner if he knew there was an update - propose an email to chris on updates.~~ This does not happen anymore
 - Proposals Collection and delivery times input a date as well.
+- Cross border band rates need to be added as options
 <br>
 <br>
 <br>
@@ -49,6 +50,13 @@ All notable changes to this project will be documented in this file.
     ![Alt text](images/IMG_2967%20Medium.jpeg)
     <br>
     ![Alt text](images/IMG_2970%20Medium.jpeg)
+    <br>
+    <br>
+
+- Cases - "Suggested Solution"
+    - When you're logging a case, you can now suggest the soltution you'd like to see.
+- Cases - "Solution Feedback"
+    - When the case is close, you can now give feedback on the solution offered. this can also be feedback that you hear from the customer.
 
 
 
