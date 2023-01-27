@@ -57,6 +57,9 @@ All notable changes to this project will be documented in this file.
     - When you're logging a case, you can now suggest the soltution you'd like to see.
 - Cases - "Solution Feedback"
     - When the case is close, you can now give feedback on the solution offered. this can also be feedback that you hear from the customer.
+- Proposals - Overnight Express Rate and Cross-Border Rate now have a "Standard option in the dropdown menu. N/A is still the default. If UNIQUE is selected, then you have to enter the rate information in the "UNIQUE Comments" field.
+
+- Proposals - "UNIQUE Comments" will only be visible when a UNIQUE rate is selected
 
 
 
