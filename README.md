@@ -33,6 +33,46 @@ All notable changes to this project will be documented in this file.
 
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
+# 2023-01-26
+<br>
+
+### Added
+
+- Competitor Info - New Module!
+    - At any stage, you're now able to log info you hear about our competitors and have it visible to the whole team so now we can be better informed during our pitches. 
+    Note: please check the verified button if you're certain about the info you're logging.
+
+    ![Menu](images/IMG_2965%20Medium.jpeg)
+    <br>
+    ![Alt text](images/IMG_2966%20Medium.jpeg)
+    <br>
+    ![Alt text](images/IMG_2967%20Medium.jpeg)
+    <br>
+    ![Alt text](images/IMG_2970%20Medium.jpeg)
+
+
+
+
+<br>
+
+### Changed
+
+
+<br>
+
+### Fixed
+
+
+<br>
+
+### Removed
+
+<br>
+<br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
+
+<!-- ------------------------------------------------------------------------------------------------------ -->
 # 2023-01-18
 <br>
 
@@ -275,8 +315,7 @@ All notable changes to this project will be documented in this file.
         6. Case is closed by Chris/Pearl
         
         **EXCEPTIONS**
-        1. All cases will be automatically reassigned to Chris 48 hours after creation
-        2. All cases that have not been closed in 72 hours will send Denesh an email notification
+        1. All cases that have not been closed in 72 hours will send Denesh an email notification
 
 
 - Cases - "**Branch Responsible**" dropdown
