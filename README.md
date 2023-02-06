@@ -34,6 +34,35 @@ All notable changes to this project will be documented in this file.
 
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
+# 2023-02-06
+<br>
+
+### Added
+
+- Competitor Info - KNS added to competitors list
+- Proposals - KNS added to competitors list
+
+<br>
+
+### Changed
+
+
+<br>
+
+### Fixed
+
+- Cases - Weekly cases graph fixed
+
+<br>
+
+### Removed
+
+<br>
+<br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
+
+<!-- ------------------------------------------------------------------------------------------------------ -->
 # 2023-01-26
 <br>
 
