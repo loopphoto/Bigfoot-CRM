@@ -41,6 +41,7 @@ All notable changes to this project will be documented in this file.
 
 - Competitor Info - KNS added to competitors list
 - Proposals - KNS added to competitors list
+- Email - Notification on new competitor info with link
 
 <br>
 
