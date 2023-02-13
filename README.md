@@ -42,9 +42,9 @@ All notable changes to this project will be documented in this file.
 - Proposals - Added "Ad Hoc" to Operational requirements section.
     -   if "Ad hoc" is unselected, collection times and day will be shown. If "ad hoc" is selected, collection days and times will be hidden.
 
-- Proposals - Zultrans added to current provider list
+- Proposals - Zultrans, RB Logistics added to current provider list
 
-- Competitor Info - Zultrans added to competitors list
+- Competitor Info - Zultrans, RB Logistics added to competitors list
 
 <br>
 
