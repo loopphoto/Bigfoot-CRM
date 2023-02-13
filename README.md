@@ -34,6 +34,34 @@ All notable changes to this project will be documented in this file.
 
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
+# 2023-02-13
+<br>
+
+### Added
+
+- Proposals - Added "Ad Hoc" to Operational requirements section.
+    -   if "Ad hoc" is unselected, collection times and day will be shown. If "ad hoc" is selected, collection days and times will be hidden.
+
+<br>
+
+### Changed
+
+
+<br>
+
+### Fixed
+
+
+
+<br>
+
+### Removed
+
+<br>
+<br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
+<!-- ------------------------------------------------------------------------------------------------------ -->
 # 2023-02-06
 <br>
 
