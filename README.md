@@ -34,6 +34,31 @@ All notable changes to this project will be documented in this file.
 
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
+# 2023-02-22
+<br>
+
+### Added
+
+
+
+<br>
+
+### Changed
+
+
+<br>
+
+### Fixed
+
+- Proposals - Account numbers added to existing accounts.
+
+<br>
+
+### Removed
+
+<br>
+<br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
 # 2023-02-13
 <br>
 
