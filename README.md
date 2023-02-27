@@ -38,11 +38,37 @@ All notable changes to this project will be documented in this file.
 <br>
 
 ### Added
-- Proposals - Pinnacle, Dynamic Road Freight, TH Holdings, City Logistics, EG Couriers, Sprint Couriers added to current provider list
+- Proposals - Added Current Providers:
+    -   Pinnacle
+    -   Dynamic Road Freight
+    -   TH Holdings
+    -   City Logistics
+    -   EG Couriers
+    -   Sprint Couriers  
+    <br>
 
-- Competitor Info - Pinnacle, Dynamic Road Freight, TH Holdings, City Logistics, EG Couriers, Sprint Couriers  added to competitors list
+- Competitor Info - Added Competitors:
+    -   Pinnacle
+    -   Dynamic Road Freight
+    -   TH Holdings
+    -   City Logistics
+    -   EG Couriers
+    -   Sprint Couriers  
+    <br>
 
 - Leads - "Personal Contact" added to Lead Source
+<br>
+
+- Cases - New case reasons: 
+    -   Vehicle Breakdown
+    -   Delayed by another customer
+    -   Not loaded/short loaded
+    -   No documents received
+    -   Late Linehaul
+    -   Missed cut-off time
+    -   Vehicle out of space
+    -   Incorrect vehicle dispatched
+
 
 
 <br>
@@ -61,6 +87,10 @@ All notable changes to this project will be documented in this file.
 <br>
 
 ### Removed
+
+- Cases - Removed case reasons: 
+    -   Late Delivery
+    -   Late Collection
 
 <br>
 <br>
