@@ -41,7 +41,11 @@ All notable changes to this project will be documented in this file.
 - Customer Survey:  
 
         More info will follow when we're ready to send out the survey.
-        Surveys can be sent to any contact on your Zoho. It is sent as an email with a button link to the survey. The data for the survey goes back into the contact that completed it and it can also be viewed in a dashboard. Please make sure that the contacts name is spelt correctly as the mail gets sent out and will have their name in it. Please also make sure that the contact has a job title and that their email is correct.
+        Surveys can be sent to any contact on your Zoho. 
+        It is sent as an email with a button link to the survey. 
+        The data for the survey goes back into the contact that completed it and it can also be viewed in a dashboard. 
+        Please make sure that the contacts name is spelt correctly as the mail gets sent out and will have their name in it. 
+        Please also make sure that the contact has a job title and that their email is correct.
     ![Alt text](Screenshot%202023-02-27%20at%2015.11.24.png)
     <br>
     ![Alt text](Screenshot%202023-02-27%20at%2015.12.35.png)
