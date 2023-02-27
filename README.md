@@ -32,8 +32,71 @@ All notable changes to this project will be documented in this file.
 <br>
 <br>
 
-
 <!-- ------------------------------------------------------------------------------------------------------ -->
+
+# 2023-02-27
+<br>
+
+### Added
+- Proposals - Pinnacle, Dynamic Road Freight, TH Holdings, City Logistics, EG Couriers, Sprint Couriers added to current provider list
+
+- Competitor Info - Pinnacle, Dynamic Road Freight, TH Holdings, City Logistics, EG Couriers, Sprint Couriers  added to competitors list
+
+- Leads - "Personal Contact" added to Lead Source
+
+
+<br>
+
+### Changed
+- Cases - Account name is now mandatory
+- Proposals - Account Name is now mandatory
+- Contacts - Account Name is now mandatory
+
+<br>
+
+### Fixed
+
+
+
+<br>
+
+### Removed
+
+<br>
+<br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
+
+# 2023-02-25
+<br>
+
+### Added
+
+
+
+<br>
+
+### Changed
+
+- Proposals - Added "Cross-Border ONLY" to Nantional Rate
+<br>
+![Alt text](Screenshot%202023-02-27%20at%2011.17.35.png)
+
+<br>
+
+### Fixed
+
+- Accounts - Account should now be owned by the correct person.
+
+<br>
+
+### Removed
+
+<br>
+<br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
 # 2023-02-22
 <br>
 
