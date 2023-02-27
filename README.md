@@ -118,6 +118,8 @@ All notable changes to this project will be documented in this file.
 
 - Accounts - Account should now be owned by the correct person.
 
+- Zia - Enriched Data available again
+
 <br>
 
 ### Removed
