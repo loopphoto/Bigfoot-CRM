@@ -33,6 +33,29 @@ All notable changes to this project will be documented in this file.
 <br>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
+# 2023-04-25
+<br>
+
+### Added
+
+
+<br>
+
+### Changed
+- Proposals - Proposals that are marked as won but are not approved are now automatically sent for approval.
+<br>
+
+### Fixed
+
+
+
+<br>
+
+### Removed
+
+<br>
+<br>
+<!-- ------------------------------------------------------------------------------------------------------ -->
 
 # 2023-02-27
 <br>
